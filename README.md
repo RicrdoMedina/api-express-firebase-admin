@@ -1,2 +1,2 @@
 # api-express-firebase-admin
-Api restfull express with firebase-admin
+Api restful express with firebase-admin
