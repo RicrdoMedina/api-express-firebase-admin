@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "phone": "4353535",
+      "email": "maria@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Juan",
+      "phone": "4353535",
+      "email": "juan@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Fernanda",
+      "phone": "4353535",
+      "email": "fernanda@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Jose",
+      "phone": "4353535",
+      "email": "jose@gmail.com"
+    }
+  ]
+}
